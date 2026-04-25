@@ -1,0 +1,15 @@
+C:\Users\dalol\OneDrive\arquivos\DesafioBenner\Network\Network\Network\bin\Debug\net10.0\Network.exe
+C:\Users\dalol\OneDrive\arquivos\DesafioBenner\Network\Network\Network\bin\Debug\net10.0\Network.deps.json
+C:\Users\dalol\OneDrive\arquivos\DesafioBenner\Network\Network\Network\bin\Debug\net10.0\Network.runtimeconfig.json
+C:\Users\dalol\OneDrive\arquivos\DesafioBenner\Network\Network\Network\bin\Debug\net10.0\Network.dll
+C:\Users\dalol\OneDrive\arquivos\DesafioBenner\Network\Network\Network\bin\Debug\net10.0\Network.pdb
+C:\Users\dalol\OneDrive\arquivos\DesafioBenner\Network\Network\Network\obj\Debug\net10.0\Network.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dalol\OneDrive\arquivos\DesafioBenner\Network\Network\Network\obj\Debug\net10.0\Network.AssemblyInfoInputs.cache
+C:\Users\dalol\OneDrive\arquivos\DesafioBenner\Network\Network\Network\obj\Debug\net10.0\Network.AssemblyInfo.cs
+C:\Users\dalol\OneDrive\arquivos\DesafioBenner\Network\Network\Network\obj\Debug\net10.0\Network.csproj.CoreCompileInputs.cache
+C:\Users\dalol\OneDrive\arquivos\DesafioBenner\Network\Network\Network\obj\Debug\net10.0\Network.sourcelink.json
+C:\Users\dalol\OneDrive\arquivos\DesafioBenner\Network\Network\Network\obj\Debug\net10.0\Network.dll
+C:\Users\dalol\OneDrive\arquivos\DesafioBenner\Network\Network\Network\obj\Debug\net10.0\refint\Network.dll
+C:\Users\dalol\OneDrive\arquivos\DesafioBenner\Network\Network\Network\obj\Debug\net10.0\Network.pdb
+C:\Users\dalol\OneDrive\arquivos\DesafioBenner\Network\Network\Network\obj\Debug\net10.0\Network.genruntimeconfig.cache
+C:\Users\dalol\OneDrive\arquivos\DesafioBenner\Network\Network\Network\obj\Debug\net10.0\ref\Network.dll
